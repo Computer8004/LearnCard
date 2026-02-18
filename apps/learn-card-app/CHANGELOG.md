@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.94.25
+
+### Patch Changes
+
+-   [#992](https://github.com/learningeconomy/LearnCard/pull/992) [`42849fe9be2e6654708546c2cc360589e5745fd5`](https://github.com/learningeconomy/LearnCard/commit/42849fe9be2e6654708546c2cc360589e5745fd5) Thanks [@gerardopar](https://github.com/gerardopar)! - feat: LC-1503 - Add streamMode Support for Structured Plan Streaming
+
 ## 1.94.24
 
 ### Patch Changes
